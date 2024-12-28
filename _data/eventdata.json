@@ -210,9 +210,9 @@
   "meteor": {
     "EventType": "Default",
     "HasGlobalCooldown": true,
-    "HasLocalCooldown": false,
+    "HasLocalCooldown": true,
     "GlobalCooldown": 2,
-    "LocalCooldown": 0,
+    "LocalCooldown": 40,
     "Mod": "Twitch Toolkit"
   },
   "maninblack": {
@@ -361,10 +361,10 @@
   },
   "raid": {
     "EventType": "Default",
-    "HasGlobalCooldown": false,
+    "HasGlobalCooldown": true,
     "HasLocalCooldown": true,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 60000,
+    "GlobalCooldown": 120,
+    "LocalCooldown": 600,
     "Mod": "Twitch Toolkit"
   },
   "dropraid": {
@@ -377,10 +377,10 @@
   },
   "sapperraid": {
     "EventType": "Default",
-    "HasGlobalCooldown": false,
+    "HasGlobalCooldown": true,
     "HasLocalCooldown": true,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 60000,
+    "GlobalCooldown": 120,
+    "LocalCooldown": 600,
     "Mod": "Twitch Toolkit"
   },
   "siegeraid": {
@@ -450,9 +450,9 @@
   "pawn": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
+    "HasLocalCooldown": true,
     "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "LocalCooldown": 240,
     "Mod": "Twitch Toolkit"
   },
   "levelskill": {
