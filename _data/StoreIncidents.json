@@ -117,7 +117,7 @@
 	},
 	{
 		"abr": "tradercaravan",
-		"price": 1750,
+		"price": 2000,
 		"karmatype": "Good"
 	},
 	{
@@ -127,7 +127,7 @@
 	},
 	{
 		"abr": "meteor",
-		"price": 850,
+		"price": 900,
 		"karmatype": "Neutral"
 	},
 	{
@@ -163,7 +163,7 @@
 	{
 		"abr": "farmanimals",
 		"price": 2400,
-		"karmatype": "Good"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "wildman",
@@ -207,7 +207,7 @@
 	},
 	{
 		"abr": "militaryaid",
-		"price": 700,
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
@@ -292,7 +292,7 @@
 	},
 	{
 		"abr": "prisoner",
-		"price": 1800,
+		"price": 2200,
 		"karmatype": "Good"
 	},
 	{
