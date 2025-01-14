@@ -68,7 +68,6 @@ mods:
   author: true
 
 # Build settings
-theme: type-on-strap
 markdown: kramdown
 sass:
   style: compressed
