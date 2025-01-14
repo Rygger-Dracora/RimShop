@@ -6,4 +6,4 @@ gem "kramdown", ">= 2.5.1"
 
 gem "type-on-strap", "~> 2.4.11"
 
-gem "webrick", "~> 1.7" 
+gem "webrick", '~> 1.9', '>= 1.9.1"
